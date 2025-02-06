@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Irwen!
 - 👀 I’m interested in Web Development, Software Engineering and a lot of stuff in tech.
-- 🌱 I’m currently learning a second year computer science student.
+- 🌱 I’m currently a second year computer science student.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
